@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Code/GameStart.js">
+    <Files>
+      <File FileName="Assets/Code/Car1Move.js" Line="35" Column="37" />
+      <File FileName="Assets/Code/Car2Move.js" Line="1" Column="1" />
+      <File FileName="Assets/Code/GameStart.js" Line="29" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
